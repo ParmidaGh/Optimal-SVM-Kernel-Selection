@@ -214,12 +214,13 @@ A `StandardScaler → LogisticRegression` pipeline is trained on the same split 
 ---
 
 # Project Structure
-'''
+
+```text
 Optimal-SVM-Kernel-Selection
 │
 ├── mnist_svm_kernel_selection.ipynb
 └── README.md
-'''
+```
 
 ---
 
